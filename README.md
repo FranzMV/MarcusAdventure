@@ -1,3 +1,3 @@
 # MarcusAdventure
-Proyecto final asignatura de programación multimedia con Unity.
+Final exercise Multimedia Programming. Platform video game made with Unity.
 2ºDAM IES San Vicente.
